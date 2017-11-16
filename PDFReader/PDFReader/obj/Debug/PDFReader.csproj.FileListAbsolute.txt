@@ -1,0 +1,16 @@
+D:\Samples\PDFReader\PDFReader\bin\Debug\PDFReader.exe.config
+D:\Samples\PDFReader\PDFReader\bin\Debug\PDFReader.exe
+D:\Samples\PDFReader\PDFReader\bin\Debug\PDFReader.pdb
+D:\Samples\PDFReader\PDFReader\bin\Debug\itextsharp.dll
+D:\Samples\PDFReader\PDFReader\bin\Debug\itextsharp.xml
+D:\Samples\PDFReader\PDFReader\bin\Debug\Interop.AcroPDFLib.dll
+D:\Samples\PDFReader\PDFReader\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\Samples\PDFReader\PDFReader\obj\Debug\PDFReader.csprojResolveAssemblyReference.cache
+D:\Samples\PDFReader\PDFReader\obj\Debug\Interop.AcroPDFLib.dll
+D:\Samples\PDFReader\PDFReader\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\Samples\PDFReader\PDFReader\obj\Debug\PDFReader.csproj.ResolveComReference.cache
+D:\Samples\PDFReader\PDFReader\obj\Debug\PDFReader.Form1.resources
+D:\Samples\PDFReader\PDFReader\obj\Debug\PDFReader.Properties.Resources.resources
+D:\Samples\PDFReader\PDFReader\obj\Debug\PDFReader.csproj.GenerateResource.Cache
+D:\Samples\PDFReader\PDFReader\obj\Debug\PDFReader.exe
+D:\Samples\PDFReader\PDFReader\obj\Debug\PDFReader.pdb
